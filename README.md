@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Python, Flask, MySQL**
 
+- 🖥️ See my projects at **pinned section** below 👇
+
 - 📫 How to reach me: **radosavljevicdanilo333@gmail.com**
 
 - ⚡ Fun fact: **I ❤️ 🐱**
